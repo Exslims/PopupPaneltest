@@ -1,0 +1,25 @@
+/** Add css rules here for your application. */
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+body, td, a, div, .p {
+    font-family: arial, sans-serif
+}
+table{
+    border: 1px solid black;
+}
+.table{
+    margin: 3px;
+    width: 100%
+}
+.toolbar{
+    margin: 3px;
+    width: 100%;
+}
+.popup-panel{
+    position: absolute;
+}
